@@ -1,0 +1,68 @@
+---
+- summary: |
+    Открытие сайта в Google Chrome
+  status: pass
+
+- summary: |
+    Открытие сайта в Yandex Browser
+  status: pass
+
+- summary: |
+    Открытие сайта в Mozilla Firefox
+  status: pass
+
+- summary: |
+    Открытие сайта в Microsoft Edge
+  status: pass
+
+- summary: |
+    Поиск товара по ключевому слову
+  status: fail
+
+- summary: |
+    Фильтрация товаров по производителю
+  status: fail
+
+- summary: |
+    Отображение товаров с подробной информацией в каталоге
+  status: fail
+
+- summary: |
+    Отображение карточки товара
+  status: pass
+
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Удаление товара из корзины
+  status: pass
+
+- summary: |
+    Оформление заказа
+  status: pass
+
+- summary: |
+    Фильтрация по цене
+  status: fail
+
+- summary: |
+    Хранение корзины в сессии браузера
+  status: pass
+
+- summary: |
+    Смена языка
+  status: pass
+
+- summary: |
+    Проверка на уязвимость
+  status: pass
+
+- summary: |
+    Сообщение об ошибке при отсутствии интернета
+  status: fail
+
+- summary: |
+    Отображение сайта на мобильных устройствах
+  status: fail
