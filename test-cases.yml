@@ -1,3 +1,17 @@
+---
+- summary: |
+    Открытие сайта в Google Chrome
+  requirement: |
+    Сайт совместив с последней версией браузера
+  prerequisites: |
+    Открыт браузер Google Chrome
+  test-data: |
+    Нет тестовых данных
+  steps:
+    – Открыть сайт
+  expected-result: |
+    Сайт открывается
+
 - summary: |
     Поиск товара по слову
   requirement: |
