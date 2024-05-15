@@ -13,45 +13,6 @@
     Сайт открывается
 
 - summary: |
-    Открытие сайта в Yandex Browser
-  requirement: |
-    Сайт совместим с последней версией браузера
-  prerequisites: |
-    Открыт браузер Yandex Browser
-  test-data: |
-    Нет тестовых данных
-  steps:
-    – Открыть сайт магазина
-  expected-result: |
-    Сайт открывается
-
-- summary: |
-    Открытие сайта в Mozilla Firefox
-  requirement: |
-    Сайт совместим с последней версией браузера
-  prerequisites: |
-    Открыт браузер Mozilla Firefox
-  test-data: |
-    Нет тестовых данных
-  steps:
-    – Открыть сайт магазина
-  expected-result: |
-    Сайт открывается
-
-- summary: |
-    Открытие сайта в Microsoft Edge
-  requirement: |
-    Сайт совместим с последней версией браузера
-  prerequisites: |
-    Открыт браузер Microsoft Edge
-  test-data: |
-    Нет тестовых данных
-  steps:
-    – Открыть сайт магазина
-  expected-result: |
-    Сайт открывается
-
-- summary: |
     Поиск товара по ключевому слову
   requirement: |
     Выводится "Ничего не найдено!", если товар не найден
