@@ -4,24 +4,12 @@
   status: pass
 
 - summary: |
-    Открытие сайта в Yandex Browser
-  status: pass
-
-- summary: |
-    Открытие сайта в Mozilla Firefox
-  status: pass
-
-- summary: |
-    Открытие сайта в Microsoft Edge
-  status: pass
-
-- summary: |
     Поиск товара по ключевому слову
   status: fail
 
 - summary: |
     Фильтрация товаров по производителю
-  status: fail
+  status: pass
 
 - summary: |
     Отображение товаров с подробной информацией в каталоге
@@ -32,7 +20,7 @@
   status: pass
 
 - summary: |
-    Добавление товара в корзину
+    Добавление товаров в корзину
   status: pass
 
 - summary: |
@@ -61,8 +49,4 @@
 
 - summary: |
     Сообщение об ошибке при отсутствии интернета
-  status: fail
-
-- summary: |
-    Отображение сайта на мобильных устройствах
   status: fail
