@@ -29,7 +29,7 @@
 
 - summary: |
     Оформление заказа
-  status: pass
+  status: fail
 
 - summary: |
     Фильтрация по цене
@@ -41,10 +41,6 @@
 
 - summary: |
     Смена языка
-  status: pass
-
-- summary: |
-    Проверка на уязвимость
   status: pass
 
 - summary: |
