@@ -50,3 +50,7 @@
 - summary: |
     Поиск товара по категории
   status: fail
+
+- summary: |
+    Фильтрация товаров по наличию
+  status: pass
