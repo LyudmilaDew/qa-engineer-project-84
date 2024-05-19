@@ -32,7 +32,7 @@
   environment: |
     Google Chrome 124.0.6367.119 (Официальная сборка) (64 бит)
     Windows 11 23H2 22631.3374
-   steps-to-reproduce: |
+  steps-to-reproduce: |
     Кликнуть по «Языку»
   expected-result: |
     В выпадающем списке отображаются языки с флагами
@@ -45,7 +45,7 @@
   environment: |
     Google Chrome 124.0.6367.119 (Официальная сборка) (64 бит)
     Windows 11 23H2 22631.3374
-   steps-to-reproduce: |
+  steps-to-reproduce: |
     - В DevTools выбрать «Не в сети»
     - Перейти в корзину
     - Перейти на страницу магазина
