@@ -3,7 +3,8 @@ name: Lyudmila K
 job: QA Engineer
 level: junior
 email: lyudmila.dew@gmail.com
-description: Прохожу курс «Инженер по тестированию»
+description: |
+  Прохожу курс «Инженер по тестированию»
 skills:
   - функциональное тестирование
   - написание багрепортов
