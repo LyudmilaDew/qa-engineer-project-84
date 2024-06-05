@@ -1,60 +1,64 @@
 ---
 test-cases:
-  - summary: |
-      Открытие сайта в Google Chrome
-    status: pass
+- summary: |
+    Открытие сайта в Google Chrome
+  status: pass
 
-  - summary: |
-      Поиск товара по ключевому слову
-    status: fail
+- summary: |
+    Поиск товара по ключевому слову
+  status: fail
 
-  - summary: |
-      Фильтрация товаров по производителю
-    status: fail
+- summary: |
+    Фильтрация товаров по производителю
+  status: fail
 
-  - summary: |
-      Отображение товаров с подробной информацией в каталоге
-    status: fail
+- summary: |
+    Отображение товаров с подробной информацией в каталоге
+  status: fail
 
-  - summary: |
-      Отображение карточки товара
-    status: pass
+- summary: |
+    Проверка переключения страниц каталога
+  status: pass
 
-  - summary: |
-      Добавление товаров в корзину
-    status: pass
+- summary: |
+    Проверка открытия карточки товара
+  status: pass
 
-  - summary: |
-      Удаление товара из корзины
-    status: pass
+- summary: |
+    Добавление товаров в корзину
+  status: pass
 
-  - summary: |
-      Оформление заказа
-    status: fail
+- summary: |
+    Удаление товара из корзины
+  status: pass
 
-  - summary: |
-      Фильтрация по цене
-    status: fail
+- summary: |
+    Оформление заказа
+  status: fail
 
-  - summary: |
-      Хранение корзины в сессии браузера
-    status: pass
+- summary: |
+    Фильтрация по цене
+  status: fail
 
-  - summary: |
-      Смена языка
-    status: pass
+- summary: |
+    Хранение корзины в сессии браузера
+  status: pass
 
-  - summary: |
-      Сообщение об ошибке при отсутствии интернета
-    status: pass
+- summary: |
+    Смена языка
+  status: pass
 
-  - summary: |
-      Поиск товара по категории
-    status: fail
+- summary: |
+    Сообщение об ошибке при отсутствии интернета
+  status: fail
 
-  - summary: |
-      Фильтрация товаров по наличию
-    status: fail
+- summary: |
+    Поиск товара по категории
+  status: fail
+
+- summary: |
+    Фильтрация товаров по наличию
+  status: pass
 
 bugreports:
   - summary: |
