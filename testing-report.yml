@@ -16,7 +16,11 @@
   status: fail
 
 - summary: |
-    Отображение карточки товара
+    Проверка переключения страниц каталога
+  status: pass
+
+- summary: |
+    Проверка открытия карточки товара
   status: pass
 
 - summary: |
@@ -53,4 +57,4 @@
 
 - summary: |
     Фильтрация товаров по наличию
-  status: pass
+  status: fail
